@@ -30,4 +30,5 @@ Creating a new branch is quick and simple.
 在dev分支中修改，这次采用--no-ff方式合并，第一次
 在dev分支中修改，这次采用--no-ff方式合并，第二次
 在dev分支中修改，这次采用--no-ff方式合并，第三次
+现在在issue-101分支上修复bug~修复完成！
 //-C4-文档结束
