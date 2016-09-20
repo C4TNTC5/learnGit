@@ -6,5 +6,5 @@ Let`s go!
 对readme.txt做第一次修改
 对readme.txt做第二次修改
 在分支dev上修改test
-在分支dev上第二次修改test
+在分支dev上第二次修改test，修改该最后一行，用于测试冲突时的解决方案
 //-C4-文档结束
