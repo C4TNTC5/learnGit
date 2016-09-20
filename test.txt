@@ -18,4 +18,6 @@ Creating a new branch is quick and simple.
 这次准备在dev分支内多改几次，方便在log中跟更清晰的查看
 刚才貌似出问题了，重新再来
 这次准备在dev分支内多修改几次，方便在log中更清晰的看fast forwad与--no-ff的区别
+又出问题了，再来
+这次准备在dev分支中多修改几次，方便在log中更清晰的看fast forward与--no-ff的区别：第一次
 //-C4-文档结束
