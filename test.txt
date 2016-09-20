@@ -9,4 +9,6 @@ Let`s go!
 在分支dev上第二次修改test，修改该最后一行，用于测试冲突时的解决方案
 Creating a new branch is quick and simple.
 在master分支换行添加内容HIJKLMN,以便与dev分支产生冲突
+在dev分支添加内容ABCDEFG
+最终，在master分支合并内容，然后需要在master分支重新add、commit
 //-C4-文档结束
