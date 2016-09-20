@@ -14,4 +14,5 @@ Creating a new branch is quick and simple.
 系统也会记录已经dev和master应合并过，当再次运行git merge dev指令时，系统会提示已经合并过
 这次修改准备禁用fast forward模式
 在dev分支内，增加这一行
+在dev分支内，增加这一行，这次采用--no-ff模式，即禁用fast-forward，进行合并
 //-C4-文档结束
