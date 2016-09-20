@@ -15,4 +15,5 @@ Creating a new branch is quick and simple.
 这次修改准备禁用fast forward模式
 在dev分支内，增加这一行
 在dev分支内，增加这一行，这次采用--no-ff模式，即禁用fast-forward，进行合并
+这次准备在dev分支内多改几次，方便在log中跟更清晰的查看
 //-C4-文档结束
