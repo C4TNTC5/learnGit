@@ -26,4 +26,5 @@ Creating a new branch is quick and simple.
 
 创建dev分支后，在dev分支中修改，第一次修改。方便看fast forward与--no-ff的区别
 创建dev分支后，在dev分支中修改，第一次修改。方便看fast forward与--no-ff的区别，第二次
+创建dev分支后，在dev分支中修改，第一次修改。方便看fast forward与--no-ff的区别，第三次
 //-C4-文档结束
