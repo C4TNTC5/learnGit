@@ -35,4 +35,5 @@ Creating a new branch is quick and simple.
 现在在issue-101分支上修复bug~修复完成！
 
 新创建一个分支，用于新功能newFun的开发，现在就在新分支feature-newFun上进行编写
+现在在第二个人的电脑上开始工作，当前文件夹的路径是learnGitNew/learnGit
 //-C4-文档结束
