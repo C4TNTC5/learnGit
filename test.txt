@@ -35,4 +35,5 @@ Creating a new branch is quick and simple.
 现在在issue-101分支上修复bug~修复完成！
 
 新创建一个分支，用于新功能newFun的开发，现在就在新分支feature-newFun上进行编写
+另外一个电脑在dev分支做了修改，并且已经提交到了远程仓库，在原始的这个账户上进行一些修改，修改后提交，以便重现与另一电脑文件冲突的解决办法。
 //-C4-文档结束
