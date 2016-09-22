@@ -30,7 +30,9 @@ Creating a new branch is quick and simple.
 在dev分支中修改，这次采用--no-ff方式合并，第一次
 在dev分支中修改，这次采用--no-ff方式合并，第二次
 在dev分支中修改，这次采用--no-ff方式合并，第三次
-
 当前正在dev分支中工作，预计一周才能完成，但是需要在2小时内修复bug，当前未完成的工作自然不能提交，怎么办？？
 使用git stash来隐藏当前工作现场
+现在在issue-101分支上修复bug~修复完成！
+
+新创建一个分支，用于新功能newFun的开发，现在就在新分支feature-newFun上进行编写
 //-C4-文档结束
